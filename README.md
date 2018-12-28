@@ -18,5 +18,5 @@ To explore all Multiplex Disease Communities in static mode, [nbviewer](https://
 - Run [MultiplexDiseasomeCommunities_static.ipynb](https://github.com/r-duh/MultiplexDiseasomeCommunities/blob/master/MultiplexDiseasomeCommunities_static.ipynb) in [nbviewer](https://nbviewer.jupyter.org/) by via the url (https://nbviewer.jupyter.org/github/r-duh/MultiplexDiseasomeCommunities/blob/master/MultiplexDiseasomeCommunities_static.ipynb?flush_cache=true), making sure `path` points to the correct directory.
 
 ## Usage
-Heatmaps can be panned and zoom in to using the Bokeh tools on the upper right corner of each community window.
+Hover mouse over the heatmaps to view the respective molecular (GO:BP and gene overlap) or phenotypic (RR comorbidity or MimMiner) similarity measure between any two disease within a multiplex disease community. Heatmaps can be panned and zoom in to using the Bokeh tools on the upper right corner of each community window.
 
