@@ -45,8 +45,8 @@ def callback(attr, old, new):
 #bokeh_df_dict = {}
 #for n_clu in np.arange(0, 10):
 #    bokeh_df_dict['Community %s' % n_clu] = calculate_bokeh_similarity_df_hierarchical(n_clu)        
-	
-bokeh_df_dict = np.load('/Users/ardahalu/Desktop/Similarity_df_dict_top30_hierarchical.npy').item()   
+path = '/Users/ardahalu/Desktop/'	
+bokeh_df_dict = np.load(path + 'Similarity_df_dict_top30_hierarchical.npy').item()   
 init_comm = 'Community 8'
 
 #----------------------------------------------------------------------------------------------------------------
