@@ -1,5 +1,7 @@
 # Multiplex Diseasome Communities
 
+Online supplementary material for [Halu, A., De Domenico, M., Arenas, A. and Sharma, A., 2017. The multiplex network of human diseases. bioRxiv, p.100370.](https://www.biorxiv.org/content/early/2017/01/18/100370)
+
 ## Interactive mode:
 To explore Multiplex Diseaes Communities in interactive mode where disease communities can be selected through a dropdown menu, follow the steps below.
 
