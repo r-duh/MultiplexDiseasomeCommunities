@@ -3,7 +3,7 @@
 Online supplementary material for [Halu, A., De Domenico, M., Arenas, A. and Sharma, A., 2017. The multiplex network of human diseases. bioRxiv, p.100370.](https://www.biorxiv.org/content/early/2017/01/18/100370)
 
 ## Interactive mode -- Bokeh server:
-To explore Multiplex Diseaes Communities in interactive mode where disease communities can be selected through a dropdown menu, follow the steps below.
+To explore Multiplex Disease Communities in interactive mode where disease communities can be selected through a dropdown menu, follow the steps below.
 
 - Download [Similarity_df_dict_top30_hierarchical.npy](https://github.com/r-duh/MultiplexDiseasomeCommunities/blob/master/Similarity_df_dict_top30_hierarchical.npy)
 
@@ -13,7 +13,7 @@ To explore Multiplex Diseaes Communities in interactive mode where disease commu
 
 
 ## Interactive mode -- nbviewer:
-To explore all Multiplex Disease Communities, [nbviewer](https://nbviewer.jupyter.org/) can be used to render the Jupyter notebook [MultiplexDiseasomeCommunities_all.ipynb](https://github.com/r-duh/MultiplexDiseasomeCommunities/blob/master/MultiplexDiseasomeCommunities_all.ipynb) via the url:
+Alternatively, to explore all Multiplex Disease Communities in interactive mode, [nbviewer](https://nbviewer.jupyter.org/) can be used to render the Jupyter notebook [MultiplexDiseasomeCommunities_all.ipynb](https://github.com/r-duh/MultiplexDiseasomeCommunities/blob/master/MultiplexDiseasomeCommunities_all.ipynb) via the url:
 
 https://nbviewer.jupyter.org/github/r-duh/MultiplexDiseasomeCommunities/blob/master/MultiplexDiseasomeCommunities_all.ipynb
 
