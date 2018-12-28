@@ -15,4 +15,4 @@ To explore all Multiplex Disease Communities in static mode, [nbviewer](https://
 
 - The first step is the same as above -- download [Similarity_df_dict_top30_hierarchical.npy](https://github.com/r-duh/MultiplexDiseasomeCommunities/blob/master/Similarity_df_dict_top30_hierarchical.npy)
 
-- Run [MultiplexDiseasomeCommunities_static.ipynb](https://github.com/r-duh/MultiplexDiseasomeCommunities/blob/master/MultiplexDiseasomeCommunities_static.ipynb) in [nbviewer](https://nbviewer.jupyter.org/) by via the url (https://nbviewer.jupyter.org/github/r-duh/MultiplexDiseasomeCommunities/blob/master/MultiplexDiseasomeCommunities_static.ipynb), making sure `path` points to the correct directory.
+- Run [MultiplexDiseasomeCommunities_static.ipynb](https://github.com/r-duh/MultiplexDiseasomeCommunities/blob/master/MultiplexDiseasomeCommunities_static.ipynb) in [nbviewer](https://nbviewer.jupyter.org/) by via the url (https://nbviewer.jupyter.org/github/r-duh/MultiplexDiseasomeCommunities/blob/master/MultiplexDiseasomeCommunities_static.ipynb?flush_cache=true), making sure `path` points to the correct directory.
