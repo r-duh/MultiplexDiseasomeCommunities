@@ -13,7 +13,9 @@ To explore Multiplex Diseaes Communities in interactive mode where disease commu
 
 
 ## Interactive mode -- nbviewer:
-To explore all Multiplex Disease Communities, [nbviewer](https://nbviewer.jupyter.org/) can be used to render the Jupyter notebook [MultiplexDiseasomeCommunities_all.ipynb](https://github.com/r-duh/MultiplexDiseasomeCommunities/blob/master/MultiplexDiseasomeCommunities_all.ipynb) via the url https://nbviewer.jupyter.org/github/r-duh/MultiplexDiseasomeCommunities/blob/master/MultiplexDiseasomeCommunities_all.ipynb
+To explore all Multiplex Disease Communities, [nbviewer](https://nbviewer.jupyter.org/) can be used to render the Jupyter notebook [MultiplexDiseasomeCommunities_all.ipynb](https://github.com/r-duh/MultiplexDiseasomeCommunities/blob/master/MultiplexDiseasomeCommunities_all.ipynb) via the url:
+
+https://nbviewer.jupyter.org/github/r-duh/MultiplexDiseasomeCommunities/blob/master/MultiplexDiseasomeCommunities_all.ipynb
 
 
 ## Usage
