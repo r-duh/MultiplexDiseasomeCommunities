@@ -17,6 +17,7 @@ Alternatively, to visualize all Multiplex Disease Communities in interactive mod
 
 https://nbviewer.jupyter.org/github/r-duh/MultiplexDiseasomeCommunities/blob/master/MultiplexDiseasomeCommunities_all.ipynb
 
+(scroll down to see the heatmaps for each disease community)
 
 ## Usage
 Hover mouse over the heatmaps to view the respective molecular (GO:BP and gene overlap) or phenotypic (RR comorbidity or MimMiner) similarity measure between any two disease within a multiplex disease community. Heatmaps can be panned and zoomed in to using the Bokeh tools on the upper right corner of each community window.
